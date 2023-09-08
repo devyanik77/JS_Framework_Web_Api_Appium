@@ -1,0 +1,33 @@
+{
+  "statusCode": 200,
+  "data": {
+    "data": [
+      {
+        "access_token": "EAALkQKJnPJsBO9xg03gCx2JqwESzn2MH2NubOfJb1KTV9BEzsoZCTTsqWK77yjuuOM4hsNPeTbSZBul1LmV98HxoLzgmAawrr8KoFsnEG5CoQchvSlEjCyzpNYj7oZBZAWIsjbb8MJfVz3NyIp8WoZBhz5PQvrKK3uuxxuuwQC0BWjyZCE23w8vccIfbGai5r9J2UXpdblw8eMIupE3UzAYmqB5Mcb0LAZD",
+        "category": "Test preparation centre",
+        "category_list": [
+          {
+            "id": "191914921205687",
+            "name": "Test preparation centre"
+          }
+        ],
+        "name": "API Test",
+        "id": "128641973659216",
+        "tasks": [
+          "ADVERTISE",
+          "ANALYZE",
+          "CREATE_CONTENT",
+          "MESSAGING",
+          "MODERATE",
+          "MANAGE"
+        ]
+      }
+    ],
+    "paging": {
+      "cursors": {
+        "before": "QVFIUmVmekpDQkNINXNFalE4MHJHMXV0QkFqZAWZAzaC1YUENfbWE0N2VSZA1NialFCZA3ROYnJIOHFwejlqUDU0V1lCc0o2YlJJeGpsWE1YbjhZAVUZAUeS1xSHFn",
+        "after": "QVFIUmVmekpDQkNINXNFalE4MHJHMXV0QkFqZAWZAzaC1YUENfbWE0N2VSZA1NialFCZA3ROYnJIOHFwejlqUDU0V1lCc0o2YlJJeGpsWE1YbjhZAVUZAUeS1xSHFn"
+      }
+    }
+  }
+}
